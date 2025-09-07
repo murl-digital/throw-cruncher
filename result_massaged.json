@@ -1,0 +1,4394 @@
+[
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.472135955,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": null,
+      "notes": "i would never throw a brussel sprout ever. too small."
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": null,
+      "notes": " woult never throw"
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": null,
+      "notes": "Doesn't matter, eyeshot"
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": null,
+      "notes": "Does not matter"
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": null,
+      "notes": "N/a | N/a"
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": null,
+      "notes": "Too tiny | Too tiny"
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": null,
+      "notes": "Please do not the avocado"
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": null,
+      "notes": "I love cantaloupe"
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": null,
+      "notes": "frozen"
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 4.0,
+      "notes": "I have never heard of this one"
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": null,
+      "notes": "I want to eat it"
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": null,
+      "notes": "10, poisened by a witch with insane power scaling  | same "
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": "-10 FRESH ASF SHIT IS FRESH PRINCE OF BALLARE  | same as b4"
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": " fresh asf but bananas serve other puporses then just being food so its very useful | same as b4"
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": "would be fresh but I hate them | same as b4"
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": "would be like a 3 but I woukd want to try it | same as b4"
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": null,
+      "desired_rancidness": 4.0,
+      "notes": "I dont like it | same as b4"
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": null,
+      "notes": "what is this??? | aaa"
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 1.0,
+      "notes": "eiter tastes good or I get REALLY hight and either one is REALLY good"
+    },
+    "golden_beet": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 1.0,
+      "notes": "minecraft ......"
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": null,
+      "desired_rancidness": 2.0,
+      "notes": "I hate spice "
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 2.0,
+      "notes": "yummm"
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 1.0,
+      "notes": "i waash my hair with water malonnnnn"
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 3.0,
+      "notes": "good for flavour maybe a bit too bitter though"
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": null,
+      "desired_rancidness": 3.0,
+      "notes": "borinnggg"
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": null,
+      "desired_rancidness": 5.0,
+      "notes": "what is this???? "
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 2.0,
+      "notes": "yummmm"
+    },
+    "red_onion": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 2.0,
+      "notes": "can make brucheta if I make bread some how"
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 2.0,
+      "notes": "oh oh uhm not to eat though"
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": null,
+      "notes": "i would have it be green actually, it would hurt more"
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 3.0,
+      "notes": "I would be suprised to get my peasent hands on a banana tbh"
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 4.0,
+      "notes": "yes"
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": null,
+      "desired_rancidness": 3.0,
+      "notes": "it would look like an ancient stone artifact"
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": "freshly picked off the vine"
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": null,
+      "notes": "the time where its the most spicy so i can throw it into their mouth"
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": null,
+      "notes": "as is with the jalapeño, when it is the most sour"
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": null,
+      "notes": "imaging biting into a onion with pulverized cells and is only held together by the skin. it would be "
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": "1, but it would be funny if the king deepthroated it"
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": null,
+      "notes": "Unripe"
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": false,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": false,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": false,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": false,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 1.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    }
+  },
+  {
+    "artichoke": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 5.0,
+      "notes": ""
+    },
+    "avocado": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 4.0,
+      "notes": ""
+    },
+    "banana": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "brussels_sprout": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "cantaloupe": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "cauliflower": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "chard": {
+      "would_throw": false,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "crimini_mushroom": {
+      "would_throw": true,
+      "expected_rancidness": 2.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "golden_beet": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "jalapeno": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "kiwi": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "korean_melon": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "lime": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "pear": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    },
+    "plucot": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 1.0,
+      "notes": ""
+    },
+    "red_grapefruit": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "red_onion": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "straightneck_squash": {
+      "would_throw": true,
+      "expected_rancidness": 4.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "strawberry": {
+      "would_throw": true,
+      "expected_rancidness": 5.0,
+      "desired_rancidness": 3.0,
+      "notes": ""
+    },
+    "tomatillo": {
+      "would_throw": true,
+      "expected_rancidness": 3.0,
+      "desired_rancidness": 2.0,
+      "notes": ""
+    }
+  }
+]
